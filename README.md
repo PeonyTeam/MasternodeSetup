@@ -10,7 +10,7 @@ Peony masternode setup
 ***•https://crex24.com/exchange/PNY-BTC <br>
 •https://graviex.net/markets/pnybtc <br>
 •https://stakecube.net/app/exchange/pny_btc <br>
-•https://stakecube.net/app/exchange/pny_btc <br>***
+•https://app.stex.com/en/trade/pair/BTC/PNY <br>***
 
 2. Download Local Wallet for your operating system: : https://github.com/PeonyTeam/peony/releases
 
