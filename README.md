@@ -18,7 +18,7 @@ Peony masternode setup
 
 **VPS WALLET:**
 
-To install UltraClear(UCR) Masternode use the following command:
+To install Peony(PNY) Masternode use the following command:
 
 `bash <( curl -sL https://raw.githubusercontent.com/PeonyTeam/MasternodeSetup/main/peony-masternode-install.sh`)
 
